@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "groupName": "Group A"
+    },
+    {
+      "id": "2",
+      "groupName": "Group B"
+    },
+    {
+      "groupName": "Group H",
+      "id": "3"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 1
+    },
+    {
+      "id": "2",
+      "firstName": "Albert",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 2
+    },
+    {
+      "id": "3",
+      "firstName": "Daniel",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 2
+    },
+    {
+      "id": "4",
+      "firstName": "Mark",
+      "lastName": "Doeeee",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 3
+    },
+    {
+      "id": "817f",
+      "firstName": "Albert",
+      "lastName": "Kign",
+      "phoneNumber": "21392329302903",
+      "email": "example@gmail.com",
+      "gender": "male",
+      "avatar": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1720656000&semt=sph",
+      "groupId": 3
+    }
+  ]
+}
